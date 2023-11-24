@@ -1,4 +1,4 @@
-<h6> Hi there 👋</h6>
+<h1> Hi there 👋</h1>
 
 - 👋 Hi, I’m @cenkyelok
 - 👀 I’m interested in Software Developer
