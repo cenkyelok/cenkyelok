@@ -1,4 +1,5 @@
-<h2> Hi there 👋</h2>
+<h1> Hi there 👋, I'm Cenk
+</h1>
 
 - 👋 Hi, I’m @cenkyelok
 - 👀 I’m interested in Software Developer & UI/UX Design
