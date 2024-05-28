@@ -1,4 +1,4 @@
-<h1> Hi there 👋, I'm Cenk
+<h1> Hi there 👋 I'm Cenk
 </h1>
 
 - 👋 Hi, I’m @cenkyelok
