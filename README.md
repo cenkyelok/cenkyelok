@@ -2,7 +2,7 @@
 </h1>
 
 <h1><b># 💫 About Me: </h1><b>
-<br>Hello! I am currently pursuing my education as a Full Stack Developer with a strong passion for UI/UX Design. My journey in software development has allowed me to blend my technical skills with my creative design abilities, enabling me to create comprehensive and user-friendly applications.
+<br><i>Hello! I am currently pursuing my education as a Full Stack Developer with a strong passion for UI/UX Design. My journey in software development has allowed me to blend my technical skills with my creative design abilities, enabling me to create comprehensive and user-friendly applications.</i>
 
 <br><br><h1><b>Projects</b><br></h1>Vasiyetim<br><i>One of my notable projects is Vasiyetim, a mobile will application designed to help users manage and document their last wishes in a secure and organized manner. This project highlights my ability to integrate full stack development practices with intuitive UI/UX design, ensuring a seamless user experience.</i>
 
