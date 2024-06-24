@@ -1,4 +1,4 @@
-<h1> Hi there 👋 I'm Cenk
+<h1> Hi there, I'm Cenk 👋
 </h1>
 <h1>💫 About Me </h1>
 <i>Hello! I am currently pursuing my education as a Full Stack Developer with a strong passion for Product Design. My journey in software development has allowed me to blend my technical skills with my creative design abilities, enabling me to create comprehensive and user-friendly applications.</i>
