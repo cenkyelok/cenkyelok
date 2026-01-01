@@ -1,5 +1,5 @@
 <i>
-Hello! I am an <b>iOS Developer</b>b> with a strong focus on Swift and SwiftUI, and a deep interest in product-oriented mobile development.
+Hello! I am an <b>iOS Developer</b>with a strong focus on Swift and SwiftUI, and a deep interest in product-oriented mobile development.
 My background allows me to combine solid software architecture with thoughtful UI/UX decisions to build scalable and user-friendly iOS applications.
 </i>
 
