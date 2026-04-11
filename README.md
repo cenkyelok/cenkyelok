@@ -11,3 +11,11 @@ imadepopcorn is an AI-powered movie recommendation application designed to elimi
 The project focuses on clean SwiftUI architecture, state-driven UI, and backend-integrated AI logic to deliver accurate and personalized recommendations.
 This application demonstrates my experience in building production-ready iOS apps, integrating AI-driven systems, and crafting a premium user experience.
 </i><br><br>
+
+<b>iozgecmisanaliz.com – AI-Powered Resume Analysis Platform (Web)</b><br>
+<i><br>
+ozgecmisanaliz.com is an AI-driven web platform designed to help users evaluate and improve their resumes with instant, data-backed feedback. The system analyzes CV content, identifies missing keywords for targeted job roles, and provides actionable suggestions to increase match rates with job postings.
+
+The platform focuses on delivering a clean, intuitive user experience while leveraging AI to generate insights such as keyword optimization, formatting improvements, and overall resume strength scoring.
+
+This project demonstrates my ability to build scalable web applications, integrate intelligent analysis systems, and create user-focused tools that deliver measurable value in the job application process.</i><br><br>
