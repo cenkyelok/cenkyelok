@@ -12,7 +12,7 @@ The project focuses on clean SwiftUI architecture, state-driven UI, and backend-
 This application demonstrates my experience in building production-ready iOS apps, integrating AI-driven systems, and crafting a premium user experience.
 </i><br><br>
 
-<b>iozgecmisanaliz.com – AI-Powered Resume Analysis Platform (Web)</b><br>
+<b>ozgecmisanaliz.com – AI-Powered Resume Analysis Platform (Web)</b><br>
 <i><br>
 ozgecmisanaliz.com is an AI-driven web platform designed to help users evaluate and improve their resumes with instant, data-backed feedback. The system analyzes CV content, identifies missing keywords for targeted job roles, and provides actionable suggestions to increase match rates with job postings.
 
