@@ -1,5 +1,5 @@
-<img src="[resim-linki-veya-yolu.gif](https://github.com/user-attachments/assets/bb9b6836-f47c-4181-97a5-de11f7622753)" width="300">
 
+<img src="(https://github.com/user-attachments/assets/bb9b6836-f47c-4181-97a5-de11f7622753)" width="300">
 <i>
 Hello! I am an <b>iOS Developer</b> with a strong focus on Swift and SwiftUI, and a deep interest in product-oriented mobile development.
 My background allows me to combine solid software architecture with thoughtful UI/UX decisions to build scalable and user-friendly iOS applications.
