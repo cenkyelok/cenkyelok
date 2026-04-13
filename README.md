@@ -26,4 +26,4 @@ ozgecmisanaliz.com is an AI-driven web platform designed to help users evaluate 
 The platform focuses on delivering a clean, intuitive user experience while leveraging AI to generate insights such as keyword optimization, formatting improvements, and overall resume strength scoring.
 
 This project demonstrates my ability to build scalable web applications, integrate intelligent analysis systems, and create user-focused tools that deliver measurable value in the job application process.</i><br><br>
-[ozgecmisanaliz.com](https://ozgecmisanaliz.com)
+[ozgecmisanaliz.com](https://ozgecmisanaliz.com)</p>
