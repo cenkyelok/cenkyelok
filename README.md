@@ -39,6 +39,7 @@ The project focuses on clean SwiftUI architecture, state-driven UI, and backend-
 This application demonstrates my experience in building production-ready iOS apps, integrating AI-driven systems, and crafting a premium user experience.
 <br><br>
 <a href="https://apps.apple.com/tr/app/imadepopcorn/id6757083377?l=tr">🍿 Download on the App Store</a>
+<hr>
 </i>
 <br><br>
 <b>ozgecmisanaliz.com – AI-Powered Resume Analysis Platform (Web)</b>
