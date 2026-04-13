@@ -32,7 +32,6 @@ My background allows me to combine solid software architecture with thoughtful U
 <h1><b>Projects</b></h1>
 
 <b>imadepopcorn – AI Movie Recommendation App (iOS)</b>
-
 <i>
 <br><br>
 imadepopcorn is an AI-powered movie recommendation application designed to eliminate the friction of searching for what to watch. 
@@ -41,9 +40,7 @@ This application demonstrates my experience in building production-ready iOS app
 <br><br>
 <a href="https://apps.apple.com/tr/app/imadepopcorn/id6757083377?l=tr">🍿 Download on the App Store</a>
 </i>
-
 <br><br>
-
 <b>ozgecmisanaliz.com – AI-Powered Resume Analysis Platform (Web)</b>
 
 <i>
@@ -53,9 +50,7 @@ The system analyzes CV content, identifies missing keywords for targeted job rol
 The platform focuses on delivering a clean, intuitive user experience while leveraging AI to generate insights such as keyword optimization, formatting improvements, and overall resume strength scoring.  
 This project demonstrates my ability to build scalable web applications, integrate intelligent analysis systems, and create user-focused tools that deliver measurable value in the job application process.
 </i>
-
 <br><br>
-
 <a href="https://ozgecmisanaliz.com">ozgecmisanaliz.com</a>
 
 </div>
