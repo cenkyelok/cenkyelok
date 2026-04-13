@@ -12,8 +12,8 @@ My background allows me to combine solid software architecture with thoughtful U
 <i><br>
 imadepopcorn is an AI-powered movie recommendation application designed to eliminate the friction of searching for what to watch.
 The project focuses on clean SwiftUI architecture, state-driven UI, and backend-integrated AI logic to deliver accurate and personalized recommendations.
-This application demonstrates my experience in building production-ready iOS apps, integrating AI-driven systems, and crafting a premium user experience.
-[🍿 Download on the App Store](https://apps.apple.com/tr/app/imadepopcorn/id6757083377?l=tr)
+This application demonstrates my experience in building production-ready iOS apps, integrating AI-driven systems, and crafting a premium user experience.<br>
+<br>[🍿 Download on the App Store](https://apps.apple.com/tr/app/imadepopcorn/id6757083377?l=tr)
 </i><br><br>
 
 <b>ozgecmisanaliz.com – AI-Powered Resume Analysis Platform (Web)</b><br>
