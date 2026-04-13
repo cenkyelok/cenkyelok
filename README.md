@@ -7,6 +7,7 @@ My background allows me to combine solid software architecture with thoughtful U
 
 <br><h1><b>Projects</b></h1>
 
+https://apps.apple.com/tr/app/imadepopcorn/id6757083377?l=tr
 <b>imadepopcorn – AI Movie Recommendation App (iOS)</b><br>
 <i><br>
 imadepopcorn is an AI-powered movie recommendation application designed to eliminate the friction of searching for what to watch.
