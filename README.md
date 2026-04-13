@@ -5,6 +5,8 @@
 My background allows me to combine solid software architecture with thoughtful UI/UX decisions to build scalable and user-friendly iOS applications.
 </i>
 
+<p align="left"> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"
+
 <br><h1><b>Projects</b></h1>
 
 
