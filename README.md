@@ -16,7 +16,7 @@ This application demonstrates my experience in building production-ready iOS app
 <br>[🍿 Download on the App Store](https://apps.apple.com/tr/app/imadepopcorn/id6757083377?l=tr)
 </i><br><br>
 
-<b>ozgecmisanaliz.com – AI-Powered Resume Analysis Platform (Web)</b><br>
+<b>ozgecmisanaliz.com – AI-Powered Resume Analysis Platform (Web & iOS -(soon))</b><br>
 <i><br>
 ozgecmisanaliz.com is an AI-driven web platform designed to help users evaluate and improve their resumes with instant, data-backed feedback. The system analyzes CV content, identifies missing keywords for targeted job roles, and provides actionable suggestions to increase match rates with job postings.
 
