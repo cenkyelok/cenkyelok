@@ -42,7 +42,6 @@ This application demonstrates my experience in building production-ready iOS app
 </i>
 <br><br>
 <b>ozgecmisanaliz.com – AI-Powered Resume Analysis Platform (Web)</b>
-
 <i>
 <br><br>
 ozgecmisanaliz.com is an AI-driven web platform designed to help users evaluate and improve their resumes with instant, data-backed feedback. 
