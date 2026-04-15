@@ -29,7 +29,7 @@ This application demonstrates my experience in building production-ready iOS app
 <hr>
 </i>
 <br>
-<b>ozgecmisanaliz.com – AI-Powered Resume Analysis Platform (Web)</b>
+<b>ozgecmisanaliz.com – AI-Powered Resume Analysis Platform (Web & iOS)</b>
 <i>
 <br><br>
 ozgecmisanaliz.com is an AI-driven web platform designed to help users evaluate and improve their resumes with instant, data-backed feedback. 
@@ -39,5 +39,5 @@ This project demonstrates my ability to build scalable web applications, integra
 </i>
 <br><br>
 <a href="https://ozgecmisanaliz.com">ozgecmisanaliz.com</a>
-
+<a href="(https://apps.apple.com/us/app/%C3%B6zgecmisanaliz/id6761579906)">Download on the App Store</a>
 </div>
