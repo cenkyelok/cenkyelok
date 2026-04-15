@@ -39,5 +39,5 @@ This project demonstrates my ability to build scalable web applications, integra
 </i>
 <br><br>
 <a href="https://ozgecmisanaliz.com">ozgecmisanaliz.com</a>
-<a href="(https://apps.apple.com/us/app/%C3%B6zgecmisanaliz/id6761579906)">Download on the App Store</a>
+<a href="https://apps.apple.com/us/app/%C3%B6zgecmisanaliz/id6761579906">Download on the App Store</a>
 </div>
