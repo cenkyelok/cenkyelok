@@ -38,6 +38,6 @@ The platform focuses on delivering a clean, intuitive user experience while leve
 This project demonstrates my ability to build scalable web applications, integrate intelligent analysis systems, and create user-focused tools that deliver measurable value in the job application process.
 </i>
 <br><br>
-<a href="https://ozgecmisanaliz.com">ozgecmisanaliz.com</a>
+<a href="https://ozgecmisanaliz.com">ozgecmisanaliz.com</a><br>
 <a href="https://apps.apple.com/us/app/%C3%B6zgecmisanaliz/id6761579906">Download on the App Store</a>
 </div>
