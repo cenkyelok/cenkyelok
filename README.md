@@ -13,31 +13,5 @@ My background allows me to combine solid software architecture with thoughtful U
 <h3>Languages and Tools:</h3>
 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-<br>
-
-<h1><b>Projects</b></h1>
-
-<b>imadepopcorn – AI Movie Recommendation App (iOS)</b>
-<i>
-<br><br>
-imadepopcorn is an AI-powered movie recommendation application designed to eliminate the friction of searching for what to watch. 
-The project focuses on clean SwiftUI architecture, state-driven UI, and backend-integrated AI logic to deliver accurate and personalized recommendations. 
-This application demonstrates my experience in building production-ready iOS apps, integrating AI-driven systems, and crafting a premium user experience.
-<br><br>
-<a href="https://apps.apple.com/tr/app/imadepopcorn/id6757083377?l=tr">Download on the App Store</a>
-<hr>
-</i>
-<br>
-<b>ozgecmisanaliz.com – AI-Powered Resume Analysis Platform (Web & iOS)</b>
-<i>
-<br><br>
-ozgecmisanaliz.com is an AI-driven web platform designed to help users evaluate and improve their resumes with instant, data-backed feedback. 
-The system analyzes CV content, identifies missing keywords for targeted job roles, and provides actionable suggestions to increase match rates with job postings.  
-The platform focuses on delivering a clean, intuitive user experience while leveraging AI to generate insights such as keyword optimization, formatting improvements, and overall resume strength scoring.  
-This project demonstrates my ability to build scalable web applications, integrate intelligent analysis systems, and create user-focused tools that deliver measurable value in the job application process.
-</i>
-<br><br>
-<a href="https://ozgecmisanaliz.com">ozgecmisanaliz.com</a><br>
-<a href="https://apps.apple.com/us/app/%C3%B6zgecmisanaliz/id6761579906">Download on the App Store</a>
+ore</a>
 </div>
