@@ -6,8 +6,7 @@
 
 <i>
 <br>
-Hello! I am an <b>iOS Developer</b> with a strong focus on Swift and SwiftUI, and a deep interest in product-oriented mobile development. 
-My background allows me to combine solid software architecture with thoughtful UI/UX decisions to build scalable and user-friendly iOS applications.
+Hello! I am an iOS Developer focused on Swift and SwiftUI, with a strong passion for product-oriented software development. Alongside building scalable and user-friendly mobile applications with thoughtful UI/UX, I also work with Python to develop backend services and REST APIs. This allows me to understand and contribute to products from end to end.
 </i>
 
 <h3>Languages and Tools:</h3>
